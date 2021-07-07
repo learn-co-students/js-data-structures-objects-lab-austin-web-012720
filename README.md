@@ -59,7 +59,7 @@ obj;
 
 Something to keep in mind!
 
-## Conclusion
+## Conclusion 
 
 In this lab, we worked with creating `Object`s and performing operations on
 them.
